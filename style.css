@@ -1,0 +1,12 @@
+body{
+    background-image:url("img.jpg");
+     background-blend-mode: luminosity;
+ }
+ h1{
+     font-style:italic;
+     font-weight: bold;
+     font-size: 30px;
+     font-family: arial,sans-serif;
+     text-aling:center;
+     color:;purple;
+   }
